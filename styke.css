@@ -665,7 +665,7 @@ html {
   .lists {
     position: absolute;
     background-color: rgb(116, 122, 121);
-    height: 110vh;
+    height: 100vh;
     width: 100vw;
     left: 100%;
     top: 0%;
